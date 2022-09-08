@@ -1,0 +1,14 @@
+@import "variables";
+
+:root {
+  font-family: "Noto Sans Japanese", -apple-system, BlinkMacSystemFont, Segoe UI,
+    Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+    sans-serif;
+
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  color: $tone-1;
+  background-color: $tone-7;
+}
