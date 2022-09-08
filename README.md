@@ -7,4 +7,4 @@ $ npm install
 $ npm run dev
 ```
 
-[北海道で GIS / MIERUNE Meetup mini #04 - Speaker Deck](https://speakerdeck.com/sorami/mierune-meetup-mini-04/)
+[北海道で GIS / MIERUNE Meetup mini #04 - Speaker Deck](https://speakerdeck.com/sorami/mierune-meetup-mini-number-04)
